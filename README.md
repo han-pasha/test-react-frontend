@@ -1,4 +1,5 @@
 Simple Frontend using React.
+Challenge created in 1 days.
 
 Run : npm start
 
